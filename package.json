@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
-    "agreement-schedules-exhibits-numbering": "*"
+    "agreement-schedules-exhibits-numbering": "^2.0.0"
   },
-  "license": "Apache-2.0",
+  "license": "BlueOak-1.0.0",
   "repository": "commonform/resolutions-schedules-exhibits-numbering"
 }
