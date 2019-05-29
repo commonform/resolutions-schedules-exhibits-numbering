@@ -11,5 +11,12 @@
     "numbering",
     "abstract-numbering"
   ],
-  "repository": "commonform/resolutions-schedules-exhibits-numbering"
+  "repository": "commonform/resolutions-schedules-exhibits-numbering",
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "standard-markdown": "^5.0.1"
+  },
+  "scripts": {
+    "lint": "standard && standard-markdown README.md"
+  }
 }
