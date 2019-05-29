@@ -7,5 +7,9 @@
     "agreement-schedules-exhibits-numbering": "^2.0.0"
   },
   "license": "BlueOak-1.0.0",
+  "keywords": [
+    "numbering",
+    "abstract-numbering"
+  ],
   "repository": "commonform/resolutions-schedules-exhibits-numbering"
 }
