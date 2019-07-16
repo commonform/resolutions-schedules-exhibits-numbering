@@ -13,7 +13,7 @@
   ],
   "repository": "commonform/resolutions-schedules-exhibits-numbering",
   "devDependencies": {
-    "standard": "^12.0.1",
+    "standard": "^13.0.2",
     "standard-markdown": "^5.0.1"
   },
   "scripts": {
