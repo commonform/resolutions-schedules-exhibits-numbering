@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
-    "agreement-schedules-exhibits-numbering": "^2.0.0"
+    "agreement-schedules-exhibits-numbering": "^3.0.0"
   },
   "license": "BlueOak-1.0.0",
   "keywords": [
